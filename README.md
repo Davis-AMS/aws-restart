@@ -12,3 +12,12 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+# 🌵🦂 Entorno de Cloud9 para Ejercicios de Python 🐍💻
+
+¡Bienvenido al entorno de Cloud9, donde realizarás una serie de ejercicios básicos de Python como parte del programa AWS re/Start impartido por Generation! 🌟
+
+## 🏜️ Información del Proyecto
+
+Este entorno está diseñado para ayudarte a mejorar tus habilidades en Python a través de ejercicios prácticos. 🌞 Aquí, explorarás conceptos fundamentales de Python y aplicarás lo aprendido en una serie de desafíos divertidos y educativos.
+
+## 📂 Estructura del Proyecto
